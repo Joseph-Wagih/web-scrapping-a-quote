@@ -4,3 +4,5 @@ libraries used are:
   1)datetime
   2)BeautifulSoup
   3)requests
+
+I used jupyter notebook
